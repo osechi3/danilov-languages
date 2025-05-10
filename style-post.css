@@ -1,0 +1,103 @@
+/* INDIVIDUAL POST */
+
+body {
+    padding: 0px;
+    margin: 0px;
+
+    line-height: 1.6;
+    font-size: 17px;
+    color: #444;
+
+    background-color: #f3f3f3;
+}
+
+.post-page-content {
+    width: 75%;
+    margin: 50px auto 30px;
+}
+
+.post {
+    padding: 20px;
+
+    font-size: 17px;
+
+    background: #fff;
+    border-radius: 5px;
+}
+
+.post-title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.post-body video {
+    width: 70%;
+
+    box-shadow: 0 1px 4px 0 #444;
+}
+
+.instructions-list-item {
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+    list-style-type: decimal;
+}
+
+.list-image-wrapper {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.list-image {
+    max-inline-size: 100%;
+    block-size: auto;
+
+    box-shadow: 0 1px 4px 0 #444;
+}
+
+.image-disclaimer {
+    font-weight: bold;
+}
+
+
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1200px) {
+
+    .post-page-content {
+        width: 90%;
+        margin: 50px auto 5px;
+    }
+
+    .post-body video {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    .post-page-content {
+        width: 95%;
+    }
+
+    .post-body video {
+        width: 97%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .post {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .post-page-content {
+        width: 100%;
+    }
+
+    .post-body video {
+        width: 100%;
+    }
+}

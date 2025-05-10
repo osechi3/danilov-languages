@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+    <url>
+      <loc>https://osechi3.github.io/gengo-aji-blog/</loc>
+      <image:image>
+        <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/videoframe_4961.png</image:loc>
+      </image:image>
+    </url>
+
+    <url>
+      <loc>https://osechi3.github.io/gengo-aji-blog/profile.html</loc>
+    </url>
+    
+    <url>
+      <loc>https://osechi3.github.io/gengo-aji-blog/posts/yomitan.html</loc>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/dictionary-import.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/close-button.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/example-word.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/example-within-card.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/choose-dictionary.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/import-button.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/yomitan-download-chrome.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/chrome-webstore.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/accept-extension.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/extension-icon.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/open-yomitan.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/open-yomitan-settings.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/turn-off-welcome-guide.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/choose-english.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/recommended-settings.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://osechi3.github.io/gengo-aji-blog/post-resources/yomitan-usage/configure-dictionaries.png</image:loc>
+        </image:image>
+    </url>
+
+</urlset> 
